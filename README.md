@@ -22,7 +22,7 @@ Please use the 1.16.5 versions of the mods listed below.
 
 ## Save Installation
 
-After cloning all the files, open `Apply-Image.cmd`. If successful, the save should appear in the `world` folder in the current directory.
+After cloning all the files([Download the image files here!](Image/README.md)), open `Apply-Image.cmd`. If successful, the save should appear in the `world` folder in the current directory.
 
 Then, move it to your save folder (`saves`).
 
