@@ -1,6 +1,6 @@
 # Centown 
 
-[中文版README](README-zh_cn.md)
+English [中文](README-zh_cn.md)
 
 ## Required Minecraft Installation
 
