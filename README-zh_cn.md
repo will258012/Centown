@@ -1,5 +1,5 @@
 # 岑城 
-
+[English](README-zh_cn.md) 中文
 ## 需要的Minecraft安装
 
 * Minecraft 1.16.5
