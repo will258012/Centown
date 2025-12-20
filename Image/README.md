@@ -1,5 +1,6 @@
 # Onedrive (Recommended)
-https://1ysvx8-my.sharepoint.com/personal/will_1ysvx8_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwill%5F1ysvx8%5Fonmicrosoft%5Fcom%2FDocuments%2FCentown%2FImage&ga=1
+https://1ysvx8-my.sharepoint.com/:f:/g/personal/will_1ysvx8_onmicrosoft_com/IgAJZTWWQE--SZPH3e9kKzYmAeorrL7B-m5sc5GlCUoLZy4?e=h7iR53
+
 # BT
 magnet:?xt=urn:btih:ee2be4f4d5bca6f2aff1e2020d5fa5fdb5a1f640&dn=Image
 
