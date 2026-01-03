@@ -15,6 +15,7 @@ Please use the 1.16.5 versions of the mods listed below.
 * [Christmas Spirit](https://www.curseforge.com/minecraft/mc-mods/christmas-spirit-rewoven)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Simple Elevators](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-elevators)
+  - If you encounter crashes due to this mod, A fixed build is available [here](https://github.com/will258012/fabric_elevator_mod/releases/latest).
 * [Joban Client Mod](https://modrinth.com/mod/jcm)
 * [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway)
 * [London Underground Addon](https://modrinth.com/mod/the-tube)
