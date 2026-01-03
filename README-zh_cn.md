@@ -13,6 +13,7 @@
 * [Christmas Spirit](https://www.curseforge.com/minecraft/mc-mods/christmas-spirit-rewoven)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Simple Elevators](https://www.curseforge.com/minecraft/mc-mods/fabric-simple-elevators)
+  - 如果您因为此模组崩溃了，可尝试使用此[修复版本](https://github.com/will258012/fabric_elevator_mod/releases/latest)。
 * [Joban Client Mod](https://modrinth.com/mod/jcm)
 * [Minecraft Transit Railway](https://modrinth.com/mod/minecraft-transit-railway)
 * [London Underground Addon](https://modrinth.com/mod/the-tube)
